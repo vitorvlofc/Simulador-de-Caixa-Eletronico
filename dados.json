@@ -1,0 +1,9 @@
+{
+    "usuarios": {
+        "vitor": {
+            "salt": "427dd40731aebe8206c81811047387fb",
+            "senha": "f91e78a23684f6ded00bb20170aa86d081d5a8cc8f3a6eeaece13991bca25b22",
+            "saldo": 1.0
+        }
+    }
+}
