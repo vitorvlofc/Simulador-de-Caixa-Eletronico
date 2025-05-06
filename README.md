@@ -1,0 +1,2 @@
+# Simulador de caixa eletronico
+Coletando informações do workspaceEste projeto é um simulador de caixa eletrônico desenvolvido em Python. Ele permite a criação e autenticação de usuários, possibilitando operações como consulta de saldo, depósito e saque. As transações são gerenciadas de forma a simular as cédulas disponíveis no caixa, e os dados (como usuários, senhas e saldos) são armazenados em um arquivo JSON.
